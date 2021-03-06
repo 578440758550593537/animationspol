@@ -6,5 +6,5 @@ $('.spoilerButton').on('click', function () {
 $('.spoiler2').hide()
 $('.spoilerButton2').on('click', function () {
   $('.spoilerButton2').hide()
-  $('.spoiler2').slideDown(2000)
+  $('.spoiler2').slideDown(500)
 })
